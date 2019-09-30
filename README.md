@@ -1,3 +1,3 @@
 # Example_Repo_Lecture6_521
 
-c
+Changed bu readme file from Rstudio
